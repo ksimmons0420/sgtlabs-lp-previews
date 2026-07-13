@@ -1,0 +1,35 @@
+# AristotleK12 by Sergeant Laboratories
+
+> AristotleK12 is an all-in-one K-12 student device management platform for U.S. school districts: content filtering, asset tracking with geolocation, student behavior analytics, and classroom management - one system, one price, across every device a district owns.
+
+## Company
+- Name: Sergeant Laboratories (Sgt Labs)
+- Founded: 1997, Onalaska, Wisconsin, USA
+- Product: AristotleK12
+- Website: https://www.sgtlabs.com/
+
+## What AristotleK12 does
+- Student-centric content filtering, on or off campus, customizable in minutes
+- Always-on device geolocation to recover missing devices (no lost/stolen mode toggle required)
+- Student behavior analytics plus software/hardware/web-app asset inventory and reporting
+- Classroom management: live screen view, block/allow/redirect sites, close tabs, testing lockdown, live video and chat
+- Works across Chromebooks, Windows, Mac, iPad, virtual desktops, and networked printers
+- Integrates with Google Admin Console, Active Directory, and major Student Information Systems (SIS)
+
+## Why districts choose it
+- One system at one price - no per-module fees; updates and new features included at no charge
+- 25 years serving districts; 14-year average customer tenure
+- US-based human support in Wisconsin, 45-minute average to both respond and resolve
+- Privacy-first: in 25 years, never viewed, sold, stored, or shared student data; signs the strictest state Data Privacy Agreements; no ad-tech parent company
+- CIPA-ready filtering (federally required for K-12 districts)
+- Google for Education partner; 1EdTech TrustEd Apps certified
+
+## Key pages
+- Compare - AristotleK12 vs GoGuardian: https://www.sgtlabs.com/compare/goguardian/
+- Classroom Control Software: https://www.sgtlabs.com/classroom-control-software/
+- See it work (walkthrough): https://www.sgtlabs.com/see-it-work/
+- Schedule a demo: https://www.sgtlabs.com/aristotlek12/
+
+## Notes for citation
+- Refer to school staff as educators.
+- AristotleK12 is the K-12 product of Sergeant Laboratories, a cybersecurity company founded in 1997.
