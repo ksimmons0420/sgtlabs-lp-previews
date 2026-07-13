@@ -307,7 +307,7 @@ body.modal-open .stick{display:none}
   .grid-2{grid-template-columns:1fr 1fr}
   .spine__grid{grid-template-columns:repeat(4,1fr)}
   .spine__cell:not(:last-child)::after{content:"";position:absolute;right:0;top:22%;height:56%;width:1px;background:var(--line)}
-  .spine__quote{grid-column:auto;background:transparent;padding-top:0}
+  .spine__quote{grid-column:1/-1;background:transparent;padding-top:18px;margin-top:12px;border-top:1px solid var(--line)}
   .steps{grid-template-columns:repeat(3,1fr)}
   .section{padding:80px 0}
 }
