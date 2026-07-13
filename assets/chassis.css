@@ -281,7 +281,7 @@
 /* ---------- Footer ---------- */
 .foot{background:#04122e;color:#9db4dd;padding:34px 0;font-size:13px}
 .foot__grid{display:flex;flex-direction:column;gap:16px}
-.foot img{height:40px;background:#fff;padding:7px 11px;border-radius:8px}  /* white chip so the dark logo reads on the dark footer */
+.foot img{height:40px;width:auto;align-self:flex-start;background:#fff;padding:7px 11px;border-radius:8px}  /* white chip so the dark logo reads on the dark footer; width:auto+flex-start stops flex-stretch distortion */
 .foot__legal{font-size:12px;color:#6f83aa;max-width:70ch;line-height:1.6}
 .foot a{color:#c6d6f4}
 
