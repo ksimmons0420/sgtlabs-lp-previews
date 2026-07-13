@@ -1,6 +1,6 @@
 # AristotleK12 (Sergeant Labs) &mdash; LP previews
 
-Wave-1 evergreen, non-brand **demo-generation** landing pages for AristotleK12, built by Scale House Media for Chamber Media. GitHub Pages previews for internal approval (Draw Lucy model) &mdash; **not** the client's live WordPress. All pages are `noindex,nofollow`.
+Wave-1 evergreen, non-brand **demo-generation** landing pages for AristotleK12, built by Chamber Media. GitHub Pages previews for internal approval (Draw Lucy model) &mdash; **not** the client's live WordPress. All pages are `noindex,nofollow`.
 
 Managed channels: Google Ads + Reddit Ads. Universal CTA: **Schedule a Demo.** July 1 is the revenue window.
 
