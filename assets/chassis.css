@@ -150,12 +150,12 @@
 .ty__cal p{font-size:13.5px;margin-bottom:12px}
 
 /* ---------- Trust spine strip ---------- */
-.spine{background:#fff;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.spine{background:#fff;border-top:1px solid var(--line);border-bottom:3px solid var(--line)}
 .spine__grid{display:grid;grid-template-columns:repeat(2,1fr);gap:2px;text-align:center}
 .spine__cell{padding:20px 12px;position:relative}
 .spine__num{font-family:var(--font-h);font-weight:700;color:var(--blue);font-size:clamp(22px,3vw,30px);line-height:1}
 .spine__lab{font-size:12.5px;color:var(--ink-mute);margin-top:6px;line-height:1.35}
-.spine__certs{grid-column:1/-1;display:flex;flex-wrap:wrap;justify-content:center;gap:12px 30px;padding:20px 12px 2px;margin-top:8px}
+.spine__certs{grid-column:1/-1;display:flex;flex-wrap:wrap;justify-content:center;gap:12px 30px;padding:22px 12px 28px;margin-top:8px}
 .spine__cert{display:inline-flex;align-items:center;gap:9px;font-family:var(--font-h);font-weight:600;font-size:14px;color:var(--ink);line-height:1.3}
 .spine__cert .ph{width:20px;height:20px;flex:0 0 auto}
 
