@@ -35,8 +35,10 @@
 }
 .sgt-lp img{max-width:100%;display:block}
 .sgt-lp h1,.sgt-lp h2,.sgt-lp h3,.sgt-lp h4{font-family:var(--font-h);color:var(--ink);line-height:1.14;font-weight:700;letter-spacing:-.01em}
-.sgt-lp a{color:var(--blue);text-decoration:none}
+.sgt-lp a{text-decoration:none}
+.sgt-lp a:not(.btn){color:var(--blue)}   /* buttons keep their own text color (fixes blue-on-blue CTA) */
 .sgt-lp strong{color:var(--ink);font-weight:700}
+.hero strong,.section--deep strong,.privacy strong,.finalcta strong{color:#fff}  /* bold stays readable on dark backgrounds */
 .wrap{max-width:var(--maxw);margin:0 auto;padding:0 22px}
 .section{padding:68px 0}
 .section--tint{background:var(--tint)}
@@ -279,7 +281,7 @@
 /* ---------- Footer ---------- */
 .foot{background:#04122e;color:#9db4dd;padding:34px 0;font-size:13px}
 .foot__grid{display:flex;flex-direction:column;gap:16px}
-.foot img{height:40px;opacity:.95}
+.foot img{height:40px;background:#fff;padding:7px 11px;border-radius:8px}  /* white chip so the dark logo reads on the dark footer */
 .foot__legal{font-size:12px;color:#6f83aa;max-width:70ch;line-height:1.6}
 .foot a{color:#c6d6f4}
 
